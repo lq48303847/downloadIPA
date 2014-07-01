@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.cqswift.com/聚财.ipa</string>
+					<string>github-mac://openRepo/https://github.com/lq48303847/downloadIPA?branch=master&filepath=聚财.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
