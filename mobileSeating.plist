@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://nj.baidupcs.com/file/048a0491e663288f290b14d688c36e7d?fid=386351906-250528-692903527620293&amp;time=1404454679&amp;sign=FDTAXER-DCb740ccc5511e5e8fedcff06b081203-NyVM2pESDSoTRRGDzynmVGiu%2B%2B0%3D&amp;to=nb&amp;fm=N,B,T,ny&amp;newver=1&amp;expires=1404455279&amp;rt=sh&amp;r=724995842&amp;logid=2926693784&amp;sh=1&amp;vuk=386351906</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://nj.baidupcs.com/file/9fbe00a55bdf2ae91e898d9ca473d690?fid=386351906-250528-568045328848027&amp;time=1404454774&amp;sign=FDTAXER-DCb740ccc5511e5e8fedcff06b081203-MDk0Ju7XZ%2B%2B59uKhnmogbDUykr0%3D&amp;to=nb&amp;fm=N,B,T,ny&amp;newver=1&amp;flow_ver=3&amp;expires=1404455374&amp;rt=sh&amp;r=312211702&amp;logid=1622987074&amp;sh=1&amp;vuk=386351906</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://qd.baidupcs.com/file/cdf64d1dde9f607d6c2d6ab4d65e6bfb?fid=386351906-250528-493251287959016&amp;time=1404454842&amp;sign=FDTAXER-DCb740ccc5511e5e8fedcff06b081203-JaIFLUeKEr%2Fteb0R%2Bt7%2BReofWsY%3D&amp;to=qb&amp;fm=N,B,T,ny&amp;newver=1&amp;expires=1404455442&amp;rt=sh&amp;r=933718397&amp;logid=2745761155&amp;sh=1&amp;vuk=386351906</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.Suntel.mobileSeating</string>
+				<key>bundle-version</key>
+				<string>10</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>字母</string>
+				<key>title</key>
+				<string>移动坐席</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
